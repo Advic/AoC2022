@@ -3,11 +3,17 @@ import numpy as np
 
 
 def part1(input: str) -> int:
-    pass
+    total = 0
+    for line in input.splitlines():
+        pass
+    return total
 
 
 def part2(input: str) -> int:
-    pass
+    total = 0
+    for line in input.splitlines():
+        pass
+    return total
 
 
 if __name__ == '__main__':
